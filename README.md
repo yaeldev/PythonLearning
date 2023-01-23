@@ -10,7 +10,7 @@ Python learning.
 > Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/yaeldev/PythonLearning.git
 ```
 
 > Go to the project directory
@@ -18,9 +18,15 @@ Python learning.
 ```bash
   cd PythonLearning
 ```
+
 > Enter to the project you want to run (Each folder contains a different project)
+
+```bash
+  cd 'project name'
+```
+
 > Execute the main.py
 
 ```bash
-  python main.py
+  py .\main.py
 ```
